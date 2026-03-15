@@ -1,0 +1,36 @@
+{
+    "faqs": [
+        {
+            "question": "What is Squid Game about?",
+            "answer": "Squid Game is a South Korean survival drama series where 456 players, all in deep financial hardship, risk their lives to play deadly children's games for a chance to win ₩45.6 billion."
+        },
+        {
+            "question": "How many episodes are there?",
+            "answer": "The first season of Squid Game consists of 9 episodes, released on Netflix in September 2021."
+        },
+        {
+            "question": "Who created Squid Game?",
+            "answer": "Squid Game was created by Hwang Dong-hyuk, a South Korean filmmaker who wrote and directed the series."
+        },
+        {
+            "question": "What games are played in Squid Game?",
+            "answer": "The games include: Red Light Green Light, Sugar Honeycombs, Tug of War, Marbles, Glass Tile (Hexagon), and Squid Game."
+        },
+        {
+            "question": "Is Squid Game based on a true story?",
+            "answer": "No, Squid Game is a fictional story. However, it was inspired by the creator's own experiences with financial struggle and class disparity in South Korea."
+        },
+        {
+            "question": "Who won Squid Game?",
+            "answer": "Seong Gi-hun (Player 456) won the game and the prize of ₩45.6 billion."
+        },
+        {
+            "question": "Are there any other seasons?",
+            "answer": "Season 2 was announced and is currently in development. The story will continue with Seong Gi-hun as the main character."
+        },
+        {
+            "question": "What is the significance of the shapes on the guards' masks?",
+            "answer": "The masks represent the guards' ranks: circles are regular guards, triangles are soldiers who enforce the games, and squares are managers who oversee the operations."
+        }
+    ]
+}

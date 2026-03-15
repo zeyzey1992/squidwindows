@@ -13,7 +13,7 @@
     <title>Squid Game - FAQ</title>
 </svelte:head>
 
-<main>
+<main>  
     <h1>FREQUENTLY ASKED QUESTIONS</h1>
     
     <div class="faq-container">
